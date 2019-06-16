@@ -1,0 +1,43 @@
+{
+ "doNotReplyPlayers": [
+  "Emp",
+  "Jesus",
+  "Cool",
+  "God",
+  "Oof"
+ ],
+ "possibleReplies": [
+  "I understand that if any more words come pouring out your cunt mouth, I'm gonna have to eat every fucking chicken in this room.",
+  "IF ANY MAN DIES WITH A CLEAN SWORD, I'LL RAPE HIS FUCKING CORPSE!",
+  "I don't give 2 shits about wildlings, its the gingers I hate",
+  "Fuck the Kingsguard. Fuck the city. Fuck the King.",
+  "THERE'S NO JUSTICE, YOU DIVINE CUNT",
+  "Remember me? Yeah you do. Your even fuckin’ uglier than I am now. What did they do to you? Doesn’t matter, that’s not how it ends for you brother, you know who’s coming for you. You’ve always known.",
+  "Lot's of cunts",
+  "I bet his hair's greasier than Joffrey 's cunt.",
+  "You 're a cold little bitch aren 't you? Guess that 's why you 're still alive.",
+  "You 're shit at dying, you know that?",
+  "You can still smell the burning bodies, and that 's where your mind 's at?",
+  "No, it gives me joy to kill people.",
+  "I 'd tell him to shut the fuck up so I can get some sleep.",
+  "These are your last words? 'Fuck you?' Come on, you can do better."
+ ],
+ "triggers": [
+  "Sandor",
+  "sandor",
+  "Clegane",
+  "clegane",
+  "Hound",
+  "hound",
+  "kills",
+  "pillage",
+  "loot"
+ ],
+ "admins": [
+  "exinq"
+ ],
+ "optoutCommand": "!sandor-out",
+ "optinCommand": "!sandor-in",
+ "disableCommand": "!sandor-off",
+ "enableCommand": "!sandor-on"
+}
